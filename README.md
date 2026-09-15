@@ -122,6 +122,10 @@ Por eso intento construir cosas, equivocarme, investigar y volver a intentarlo.
   Gracias por visitar mi perfil.
 </p>
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
 Credit: [basemax](https://github.com/BaseMax)
 
 Last Edited on: 30/10/2021
